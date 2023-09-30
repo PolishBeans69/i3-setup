@@ -11,42 +11,42 @@ scrolling:
 
 font:
   normal:
-    family: Iosevka Nerd Font Light
-    style:  Bold
+    family: Iosevka Nerd Font 
+    style:  Light
   bold:
-    family: Iosevka Nerd Font Light
-    style:  Bold
+    family: Iosevka Nerd Font
+    style:  Normal
   italic:
-    family: Iosevka Nerd Font Light
+    family: Iosevka Nerd Font 
     style:  MediumItalic
   bold_italic:
-    family: Iosevka Nerd Font Light
+    family: Iosevka Nerd Font 
     style: BoldItalic
   size: 10
 draw_bold_text_with_bright_colors: true
 
 colors:
   primary:
-    background: "#1d2d3d"
-    foreground: "#fefae0"
+    background: "#f7f7fb"
+    foreground: "#000000"
   normal:
-    black: "#1b2430"
-    red: "#ff7b54"
-    green: "#939b62"
-    yellow: "#ffd56f"
-    blue: "#7aa2f7"
-    magenta: "#816797"
-    cyan: "#fefae0"
-    white: "#fefae0"
+    black: "#000000"
+    red: "#820000"
+    green: "#a99f50"
+    yellow: "#472d2d"
+    blue: "#00008b"
+    magenta: "#781c68"
+    cyan: "#00008b"
+    white: "#000000"
   bright:
-    black: "#1b2430"
-    red: "#ff7b54"
-    green: "#939b62"
-    yellow: "#ffd56f"
-    blue: "#7da6ff"
-    magenta: "#816797"
-    cyan: "#fefae0"
-    white: "#fefae0"
+    black: "#000000"
+    red: "#820000"
+    green: "#a99f50"
+    yellow: "#472d2d"
+    blue: "#00008b"
+    magenta: "#781c68"
+    cyan: "#00008b"
+    white: "#000000"
 
 selection:
   save_to_clipboard: false
